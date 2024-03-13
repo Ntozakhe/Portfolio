@@ -616,6 +616,7 @@
     });
 
     /*----------- Contact -----------*/
+/*
 
     $('.contact-form').on('submit', function(event) {
       var form = $(this);
@@ -659,6 +660,7 @@
           });
       }, 1000);
     });
+    */
 
   });
   $(window).on('load', function() {
